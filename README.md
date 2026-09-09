@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪐 sanskriti ✦ `siawrrr` 🕷️
+# 🪐 sanskriti ✦🕷️✮⋆˙
 
 > *crafting intuitive web interfaces across digital orbits.*
 
@@ -12,18 +12,18 @@
 
 </div>
 
-### 🪐 ✦ about me
-* 🚀 **the mission:** actively levelling up my technical and creative toolkit before  20
-* 🎨 **design & tech:** exploring the intersection of frontend architecture, UI/UX interaction design, and 3D workflows to build intuitive, high-impact products.
-* 🧠 **languages & stack:** HTML5, CSS3, JavaScript, Python, C, mongoDB
-* 🌌 **mindset:** fast learner, constant explorer and always curious about emerging tech and creative media.
+### 🪐 ✦ about me✮⋆˙
+*  **the mission:** actively levelling up my technical and creative toolkit before  20
+*  **design & tech:** exploring the intersection of frontend architecture, UI/UX interaction design, and 3D workflows to build intuitive, high-impact products.
+*  **languages & stack:** HTML5, CSS3, JavaScript, Python, C, mongoDB
+*  **mindset:** fast learner, constant explorer and always curious about emerging tech and creative media.
 
 <br/>
 
-### 🪐 ✦ current focus
-* 🔭 **working on:** full-featured web applications with clean UI architectures and responsive layouts
-* 🪐 **exploring:** interactive 3D modeling and asset workflows using Blender
-* ☄️ **collaborating:** active in hackathons and open-source sprint teams
+### 🪐 ✦ current focus✮⋆˙
+*  **working on:** full-featured web applications with clean UI architectures and responsive layouts
+*  **exploring:** interactive 3D modeling and asset workflows using Blender
+*  **collaborating:** active in hackathons and open-source sprint teams
 
 <br/>
 
