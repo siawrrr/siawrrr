@@ -1,26 +1,33 @@
 <div align="center">
 
-# sanskriti ✦ `siawrrr`
+# 🪐 sanskriti ✦ `siawrrr` 🕷️
 
-> *swinging through dimensions, breaking builds, calling it a canon event.*
+> *crafting intuitive web interfaces across digital orbits.*
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=E23636&center=true&vCenter=true&width=460&lines=hobbyist+by+label%2C+builder+at+heart;shipping+code+%26+chasing+curiosity;web-slinging+through+front-end+%26+blender;cooking+up+chaos+at+hackathons)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F472B6&center=true&vCenter=true&width=460&lines=web+developer+%26+creative+coder;exploring+front-end+architecture;learning+3d+workflows+in+blender;building+projects+at+hackathons)](https://git.io/typing-svg)
 
 ---
 
 </div>
 
-### 🕷️ the multiverse vibe
-* **canon event:** turning late-night coffee into clean, functional code
-* **philosophy:** make it work, make it clean, make it look unreal
-* **status:** perpetually learning, occasionally over-engineering
-* **side quests:** hackathons, 3D renders in blender, surviving syntax errors
+### 🪐 ✦ about me
+* 🚀 **the mission:** actively levelling up my technical and creative toolkit before  20
+* 🎨 **design & tech:** exploring the intersection of frontend architecture, UI/UX interaction design, and 3D workflows to build intuitive, high-impact products.
+* 🧠 **languages & stack:** HTML5, CSS3, JavaScript, Python, C, mongoDB
+* 🌌 **mindset:** fast learner, constant explorer and always curious about emerging tech and creative media.
 
 <br/>
 
-### 🕸️ web & toolkit
+### 🪐 ✦ current focus
+* 🔭 **working on:** full-featured web applications with clean UI architectures and responsive layouts
+* 🪐 **exploring:** interactive 3D modeling and asset workflows using Blender
+* ☄️ **collaborating:** active in hackathons and open-source sprint teams
+
+<br/>
+
+### 🕸️ ✦ stack & tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,git,github,vscode,blender" alt="tech-stack" />
@@ -28,17 +35,17 @@
 
 <br/>
 
-### 🌌 radar & metrics
+### 🌌 ✦ activity & metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siawrrr&show_icons=true&theme=radium&hide_border=true&bg_color=0b0e14&title_color=e23636&icon_color=00d2ff&text_color=94a3b8" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siawrrr&theme=radium&hide_border=true&background=0b0e14&fire=e23636&ring=00d2ff&currStreakLabel=00d2ff" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siawrrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0e14&title_color=f472b6&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siawrrr&theme=tokyonight&hide_border=true&background=0b0e14&fire=f472b6&ring=38bdf8&currStreakLabel=f472b6" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
 
-✦ **[thwip into my dms](https://github.com/siawrrr)** ✦
+✦ **[connect / reach out](https://github.com/siawrrr)** ✦
 
 </div>
