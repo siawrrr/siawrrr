@@ -27,7 +27,7 @@
 
 <br/>
 
-### 🕸️ ✦ stack & tools
+### 🕸️ ✦ learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,git,github,vscode,blender" alt="tech-stack" />
